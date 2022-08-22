@@ -25,7 +25,7 @@ Users should be able to:
 
 ### Links
 
-- Solution/Live Site URL: [Add solution URL here](https://github.io/ultraiam/order-summary)
+- Solution/Live Site URL: [(https://github.io/ultraiam/order-summary]
 
 ## My process
 
