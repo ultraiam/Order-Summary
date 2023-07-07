@@ -40,15 +40,11 @@ Users should be able to:
 
 ### What I learned
 
-While I was making this component, I didn't want to use bootstrap sense I was told that frameworks change overtime but html/css would last. So that's essentially what
-I did. It took me longer than I'd like to take on these types of components but that just proves I'm still a novice. I learned how to use flex, articles, and 
-the @import and @media functions to control the components properties. 
+I learned how to use flex, articles, @import and @media functions to create a responsive layout. 
 
 
 ### Continued development
-
-I'm going to continue going through all of the free components and work on becoming more effecient at coding them. This is really fun and I hope I can get a high
-paying developer position as I get better over time.
+Completeing all the free FEM challenges is my goal. 
 
 ## Author
 
